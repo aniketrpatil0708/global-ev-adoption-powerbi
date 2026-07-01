@@ -10,9 +10,6 @@
 |------|-------|--------|
 | Page 1 | Executive Summary | ✅ Complete |
 | Page 2 | Demographics & Behavior | ✅ Complete |
-| Page 3 | Infrastructure & Access | 🔄 In progress |
-| Page 4 | Attitudes & Psychology | 🔄 In progress |
-| Page 5 | Cost & Energy Analysis | 🔄 In progress |
 
 ---
 
@@ -123,24 +120,6 @@ The script exports `ev_adoption_cleaned.csv` with 29 columns (23 original + 6 de
 **Slicers:** Adoption likelihood (tile) · City type (dropdown) · Income segment (tile)
 
 **Key finding:** 30–39 age group shows highest concentration of High adopters. PhD-educated respondents earn 2.2× more than High School graduates and show stronger adoption intent.
-
----
-
-### 🔄 Page 3 — Infrastructure & Access *(in progress)*
-
-Gauge · Home charging bar by city · Charger distance bar · Scatter correlation · Electricity cost line
-
----
-
-### 🔄 Page 4 — Attitudes & Psychology *(in progress)*
-
-Radar chart · KPI cards · Clustered bar (anxiety scores) · Decomposition tree
-
----
-
-### 🔄 Page 5 — Cost & Energy Analysis *(in progress)*
-
-Fuel vs charging comparison · Savings by income · Energy scatter · Cost histogram
 
 ---
 
